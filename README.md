@@ -28,7 +28,7 @@
 |Logistic Regression  |0.9251472000668143|
 |KNN                  |0.9249632500728671|
 |Gaussian NB          |0.8969510952849158|
-|Neural Network       |           |
+|Neural Network       |0.9346067683980575|
 
 ## 5. Discussion
 - While my hypothesis was somewhat correct, Gaussian NB definetly did
